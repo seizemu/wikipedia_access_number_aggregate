@@ -1,0 +1,5 @@
+---
+wikiperank:
+  read_data_number: 100
+  base_url: http://dumps.wikimedia.org/other/pagecounts-raw/year/year-month/
+  number_of_rank_to_be_output: 10
